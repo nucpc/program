@@ -24,7 +24,7 @@
 [11. - FFMPEG -](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z)
 
 [11. - Youtube-DL - ](https://yt-dl.org/downloads/2021.01.24.1/youtube-dl.exe)
-
-[12. - CMD command -](C:\Windows\System32\cmd.exe /k cd c:\)
-
+```
+12. - CMD command - C:\Windows\System32\cmd.exe /k cd c:\
+```
 
