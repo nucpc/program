@@ -23,15 +23,10 @@
 
 [11. - FFMPEG -](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.7z)
 
+[12. [Youtube-DL ] https://yt-dl.org/downloads/2021.01.24.1/youtube-dl.exe
+
 ```
-<a name="custom_anchor_name"></a>
+12a. [CMD Terminal] | C:\Windows\System32\cmd.exe /k cd c:\
 ```
-```
-[11. [Youtube-DL ] https://yt-dl.org/downloads/2021.01.24.1/youtube-dl.exe
-```
-```
-12. [CMD Terminal] | C:\Windows\System32\cmd.exe /k cd c:\
-```
-#### some header <sup><sup><sub> <a name="235ffda" href="#235ffda">235ffda</a></sub></sup></sup> 
 
 
