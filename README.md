@@ -25,6 +25,6 @@
 
 [11. - Youtube-DL - ](https://yt-dl.org/downloads/2021.01.24.1/youtube-dl.exe)
 
-[12. - CMD command -](file:////C:\Windows\System32\cmd.exe /k cd c:\)
+[12. - CMD command -](file:///C:\Windows\System32\cmd.exe /k cd c:\)
 
 
