@@ -25,7 +25,7 @@
 
 [12. [Youtube-DL ](https://yt-dl.org/downloads/2021.01.24.1/youtube-dl.exe)
 
-- `&amp;` &amp; 
+- `&CMD Termial;` &amp; 
 - CMD Terminal   |   C:\Windows\System32\cmd.exe /k cd c:\
 
 
