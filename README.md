@@ -1,5 +1,3 @@
-# Program installed in order.
-
 
 [1. - VLC -](https://get.videolan.org/vlc/3.0.12/win64/vlc-3.0.12-win64.exe)
 
