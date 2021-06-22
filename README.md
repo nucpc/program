@@ -29,6 +29,3 @@
   * `Batch Files - from GITHUB`  &rarr; (https://github.com/Aluulu/Maidenhill-Batch-Files)
   * `Batch Files - from GITHUB`  &rarr; (https://github.com/topics/batch-file)
 
-https://-nm.zoom.us/j/96535995014?pwd=elIyb0pldVRtQmpnYmJxWnF5cCt2dz09
-
-
